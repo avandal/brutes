@@ -130,6 +130,7 @@
 		<choice>Endu,Trident</choice>
 		<choice>Endu,Massue</choice>
 		<choice>Perse,Endu</choice>
+		<choice>Increvable,Force</choice>
 		<next />
 	</brute>
 	
@@ -208,6 +209,7 @@
 				<choice>Rapi,Lance</choice>
 				<choice>Rapi,Couteau</choice>
 				<choice>Rapi,Couteau</choice>
+				<choice>Agi,Trident</choice>
 				<next />
 			</c2>
 		</bifurq>
@@ -249,6 +251,7 @@
 		<choice>Agi,Glaive</choice>
 		<choice>Endu,Rapi_Agi</choice>
 		<choice>Endu,Glaive</choice>
+		<choice>PR,Rapi</choice>
 		<next />
 	</brute>
 
@@ -279,6 +282,7 @@
 		<choice>Force,Rapi_Endu</choice>
 		<choice>Force_Agi,Agi</choice>
 		<choice>Force,Glaive</choice>
+		<choice>Endu,Couteau</choice>
 		<choice>Endu,Couteau</choice>
 		<next />
 	</brute>
@@ -557,8 +561,8 @@
 				<choice>Force,Deluge</choice>
 				<choice>Endu,Couteau</choice>
 				<choice>Rapi,Filet</choice>
-				<next />
 				<choice>BF,Force</choice>
+				<next />
 				<choice>SC,Agi</choice>
 				<choice>Force,Massue</choice>
 				<choice>Contre,Endu</choice>
@@ -748,8 +752,8 @@
 		<name>MissJulia</name>
 		<choice>Force,Baton</choice>
 		<choice>Endu,Baton</choice>
-		<next />
 		<choice>Bouclier,Rapi</choice>
+		<next />
 		<choice>6e.s,Agi</choice>
 		<choice>MA,Force</choice>
 		<choice>Force,Baton</choice>
@@ -840,6 +844,7 @@
 						<choice>Agi,Lance</choice>
 						<choice>Survie,Rapi</choice>
 						<choice>Bouclier,Endu</choice>
+						<choice>Increvable,Agi</choice>
 						<next />
 					</c2>
 				</bifurq>
@@ -865,6 +870,7 @@
 		<choice>Force,Baton</choice>
 		<choice>Agi,Hache</choice>
 		<choice>Endu,Glaive</choice>
+		<choice>FH,Rapi</choice>
 		<next />
 	</brute>
 
@@ -954,8 +960,8 @@
 		<choice>PR,Endu</choice>
 		<choice>Force,Couteau</choice>
 		<choice>Vita,Rapi</choice>
-		<next />
 		<choice>SC,Agi</choice>
+		<next />
 		<choice>TdC,Force</choice>
 		<choice>Couteau,Agi</choice>
 		<choice>Endu,Baton</choice>
@@ -1027,8 +1033,8 @@
 		<choice>Intouchable,Endu</choice>
 		<choice>Vita,Endu</choice>
 		<choice>Fouet,Force</choice>
-		<next />
 		<choice>Endu,Baton</choice>
+		<next />
 		<choice>Rapi,Hache</choice>
 		<choice>Endu,Rapi_Agi</choice>
 		<choice>Armure,Agi</choice>
@@ -1041,5 +1047,6 @@
 		<name>MissTSX</name>
 		<choice>Increvable,Rapi</choice>
 		<choice>Déluge,Agi</choice>
+		<choice>Force,PR</choice>
 	</brute>
 </brutes>
