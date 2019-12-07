@@ -369,8 +369,8 @@
 								<choice>Ours,Force</choice>
 								<choice>TdC,Endu</choice>
 								<choice>FE,Force</choice>
-								<next />
 								<choice>Ballerines,Force</choice>
+								<next />
 								<choice>Agi_Endu,Force</choice>
 								<choice>SC,Rapi</choice>
 								<choice>Force,Glaive</choice>
@@ -464,8 +464,8 @@
 		<choice>Regen,Agi</choice>
 		<choice>Endu,Massue</choice>
 		<choice>Rapi,Hache</choice>
-		<next />
 		<choice>TdF,Force</choice>
+		<next />
 		<choice>Rapi,Deluge</choice>
 		<choice>Force,Couteau</choice>
 		<choice>Force,Couteau</choice>
@@ -634,8 +634,8 @@
 		<choice>Endu,Trident</choice>
 		<choice>Force,Baton</choice>
 		<choice>Vanda,Force</choice>
-		<next />
 		<choice>Rapi,PR</choice>
+		<next />
 		<choice>Force,Couteau</choice>
 		<bifurq current-tree="c2">
 			<c1>
@@ -743,6 +743,7 @@
 				<choice>Lance,Agi</choice>
 				<choice>Endu,Hache</choice>
 				<choice>Force,Glaive</choice>
+				<choice>Force_Rapi,Endu</choice>
 				<next />
 			</c2>
 		</bifurq>
@@ -894,9 +895,9 @@
 		<choice>Force,Massue</choice>
 		<choice>TdC,Agi</choice>
 		<choice>Endu,Os</choice>
+		<choice>Force,Massue</choice>
 		<next />
 		<choice>Agi,Glaive</choice>
-		<choice>Force,Massue</choice>
 	</brute>
 
 	<brute>
@@ -925,6 +926,7 @@
 		<choice>Ours,Endu</choice>
 		<choice>Endu,Agi_Force</choice>
 		<choice>Agi,Couteau</choice>
+		<choice>Endu,Glaive</choice>
 		<next />
 	</brute>
 
@@ -939,8 +941,8 @@
 		<choice>Rapi,Lance</choice>
 		<choice>PR,Rapi</choice>
 		<choice>Force_Endu,Endu</choice>
-		<next />
 		<choice>Rapi,Cuisinier</choice>
+		<next />
 		<choice>TdC,Agi</choice>
 		<choice>Force_Agi,Agi</choice>
 		<choice>Chien,Agi</choice>
@@ -1007,6 +1009,7 @@
 			<c2>
 				<picked>Agi</picked>
 				<choice>Fouet,Endu</choice>
+				<choice>Choc,Agi</choice>
 				<next />
 			</c2>
 		</bifurq>
@@ -1034,8 +1037,8 @@
 		<choice>Vita,Endu</choice>
 		<choice>Fouet,Force</choice>
 		<choice>Endu,Baton</choice>
-		<next />
 		<choice>Rapi,Hache</choice>
+		<next />
 		<choice>Endu,Rapi_Agi</choice>
 		<choice>Armure,Agi</choice>
 		<choice>Voleur,Force</choice>
