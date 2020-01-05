@@ -105,6 +105,7 @@
 				<choice>Endu,Os</choice>
 				<choice>Hypnose,Agi</choice>
 				<choice>Rapi,Glaive</choice>
+				<choice>Rapi,Endu_Agi</choice>
 				<next />
 			</c2>
 		</bifurq>
@@ -136,6 +137,7 @@
 		<choice>Filet,Agi</choice>
 		<choice>Force,Baton</choice>
 		<choice>Rapi,Baton</choice>
+		<choice>Rapi,Trident</choice>
 		<next />
 	</brute>
 	
@@ -244,6 +246,7 @@
 		<choice>Endu,Glaive</choice>
 		<choice>Voleur,Rapi</choice>
 		<choice>Force,PR</choice>
+		<choice>Force,Baton</choice>
 		<next />
 	</brute>
 	
@@ -271,6 +274,7 @@
 		<choice>Force,Os</choice>
 		<choice>Rapi,Lance</choice>
 		<choice>Rapi_Force,Agi</choice>
+		<choice>Rapi_Force,Endu</choice>
 		<next />
 	</brute>
 
@@ -318,6 +322,7 @@
 		<choice>6e.s,Endu</choice>
 		<choice>Contre,Agi</choice>
 		<choice>Chien,Force</choice>
+		<choice>Voleur,Rapi</choice>
 		<next />
 	</brute>
 	
@@ -380,8 +385,8 @@
 								<choice>SC,Rapi</choice>
 								<choice>Force,Glaive</choice>
 								<choice>Rapi,Massue</choice>
-								<next />
 								<choice>Endu_Rapi,Agi</choice>
+								<next />
 								<choice>Pugnace,Force</choice>
 								<choice>Force_Rapi,Rapi</choice>
 								<choice>Rapi,Os</choice>
@@ -435,8 +440,8 @@
 		<choice>Chien,Agi</choice>
 		<choice>Force,Glaive</choice>
 		<choice>Force,Glaive</choice>
-		<next />
 		<choice>Force,CqP</choice>
+		<next />
 		<choice>Force,Glaive</choice>
 		<choice>Bombe,Agi</choice>
 		<choice>Force,Hache</choice>
@@ -497,8 +502,8 @@
 		<choice>Bouclier,Rapi</choice>
 		<choice>Immo,Agi</choice>
 		<choice>Agi,Os</choice>
-		<next />
 		<choice>Force,Massue</choice>
+		<next />
 		<choice>Endu,Baton</choice>
 		<choice>Intouchable,Force</choice>
 		<bifurq current-tree="c1">
@@ -534,7 +539,6 @@
 		<name>MissOCaml</name>
 		<choice>FH,Endu</choice>
 		<choice>Force,Lance</choice>
-		<next />
 		<choice>PT,Endu</choice>
 		<choice>Fouet,Agi</choice>
 		<bifurq current-tree="c2">
@@ -558,6 +562,7 @@
 			<c2>
 				<picked>PR</picked>
 				<choice>Rapi,Couteau</choice>
+				<next />
 				<choice>Choc,Rapi</choice>
 				<choice>Endu,Couteau</choice>
 				<choice>TdC,Agi</choice>
@@ -855,8 +860,8 @@
 					</c1>
 					<c2>
 						<picked>6e.s</picked>
-						<next />
 						<choice>BF,Force</choice>
+						<next />
 						<choice>Choc,Rapi</choice>
 						<choice>TdC,Rapi</choice>
 						<choice>PR,Agi</choice>
@@ -913,6 +918,7 @@
 		<choice>BF,Agi</choice>
 		<choice>Filet,Agi</choice>
 		<choice>Force,Glaive</choice>
+		<next />
 		<choice>Force,Baton</choice>
 		<choice>AM,Rapi</choice>
 		<choice>Chien,Agi</choice>
@@ -933,7 +939,6 @@
 		<choice>Endu,Glaive</choice>
 		<choice>Force,PR</choice>
 		<choice>Endu,Baton</choice>
-		<next />
 	</brute>
 
 	<brute>
@@ -974,9 +979,9 @@
 		<choice>MA,Rapi</choice>
 		<choice>Force,Massue</choice>
 		<choice>Couteau,Endu</choice>
-		<next />
 		<choice>Rapi,Lance</choice>
 		<choice>PR,Rapi</choice>
+		<next />
 		<choice>Force_Endu,Endu</choice>
 		<choice>Rapi,Cuisinier</choice>
 		<choice>TdC,Agi</choice>
@@ -1014,6 +1019,8 @@
 		<choice>SqP,Rapi</choice>
 		<choice>Force,PR</choice>
 		<choice>Rapi,Massue</choice>
+		<choice>Pugnace,Rapi</choice>
+		<choice>Agi,Hache</choice>
 		<next />
 	</brute>
 
@@ -1027,8 +1034,8 @@
 		<choice>Chien,Rapi</choice>
 		<choice>Rapi,Glaive</choice>
 		<choice>Rapi,Os</choice>
-		<next />
 		<choice>Rapi,Glaive</choice>
+		<next />
 		<choice>Vanda,Rapi</choice>
 		<choice>Survie,Agi</choice>
 		<bifurq>
@@ -1075,6 +1082,7 @@
 				<choice>Agi,Glaive</choice>
 				<choice>Baton,Rapi</choice>
 				<choice>Bouclier,Force</choice>
+				<choice>SqP,Rapi</choice>
 				<next />
 			</c2>
 		</bifurq>
@@ -1085,6 +1093,7 @@
 		<choice>Contre,Rapi</choice>
 		<choice>Rapi,Massue</choice>
 		<choice>Sai,Force</choice>
+		<next />
 		<choice>Intouchable,Endu</choice>
 		<bifurq current-tree="c1">
 			<c1>
@@ -1107,7 +1116,7 @@
 				<choice>PR,Rapi</choice>
 				<choice>Agi,Trident</choice>
 				<choice>Force,Glaive</choice>
-				<next />
+				<choice>Endu_Rapi,Rapi</choice>
 			</c2>
 		</bifurq>
 	</brute>
@@ -1122,6 +1131,7 @@
 		<choice>Force,Glaive</choice>
 		<choice>Vita,Rapi</choice>
 		<choice>Agi,Glaive</choice>
+		<choice>AM,Agi<choice>
 		<next />
 	</brute>
 
@@ -1133,7 +1143,6 @@
 		<choice>Agi,PR</choice>
 		<choice>Endu,Shushu</choice>
 		<choice>TdF,Endu</choice>
-		<next />
 		<bifurq current-tree="c2">
 			<c1>
 				<picked>Marteau</picked>
@@ -1142,6 +1151,8 @@
 
 			<c2>
 				<picked>Endu</picked>
+				<choice>Rapi,Massue</choice>
+				<next />
 			</c2>
 		</bifurq>
 	</brute>
