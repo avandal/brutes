@@ -511,9 +511,9 @@
 		<choice>Endu,Hache</choice>
 		<choice>BF,Agi</choice>
 		<choice>Sai,Agi</choice>
-		<next />
 		<choice>Force,Chien</choice>
 		<choice>Chien,Agi</choice>
+		<next />
 		<choice>Force,Glaive</choice>
 		<choice>Force,Glaive</choice>
 		<choice>Force,CqP</choice>
@@ -671,9 +671,9 @@
 				<choice>Force,Baton</choice>
 				<choice>Force,Lance</choice>
 				<choice>Endu,Chien</choice>
-				<next />
 				<choice>6e.s,Agi</choice>
 				<choice>Force,Deluge</choice>
+				<next />
 				<choice>Endu,Couteau</choice>
 				<choice>Rapi,Filet</choice>
 				<choice>BF,Force</choice>
