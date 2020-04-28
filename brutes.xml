@@ -114,6 +114,7 @@
 				<choice>Force,Baton</choice>
 				<choice>Force,Baton</choice>
 				<choice>Agi,Force_Rapi</choice>
+				<choice>Force,Os</choice>
 				<next />
 			</c2>
 		</bifurq>
