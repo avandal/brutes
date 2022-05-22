@@ -1444,12 +1444,7 @@
 
 	<brute>
 		<name>MissGit</name>
-		<choice>Baton,Rapi</choice>
-		<choice>Agi,Lance</choice>
-		<choice>Rapi,Massue</choice>
-		<choice>BF,Agi</choice>
-		<choice>Epee,Agi</choice>
-		<choice>Agi,Lance</choice>
+		<choice>AM,Agi</choice>
 	</brute>
 
 	<brute>
