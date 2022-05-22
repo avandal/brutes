@@ -1445,6 +1445,8 @@
 	<brute>
 		<name>MissGit</name>
 		<choice>AM,Agi</choice>
+		<choice>AdF,Agi</choice>
+		<choice>6e.s,Endu</choice>
 	</brute>
 
 	<brute>
