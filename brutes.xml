@@ -1456,4 +1456,12 @@
 		<choice>Agi,Couteau</choice>
 		<choice>TdF,Agi</choice>
 	</brute>
+
+	<brute>
+		<name>MisterJOOQ</name>
+		<choice>PR,Endu</choice>
+		<choice>FH,Rapi</choice>
+		<choice>Rapi_Endu,Agi</choice>
+		<choice>Force,Couteau</choice>
+	</brute>
 </brutes>
