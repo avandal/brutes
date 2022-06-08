@@ -1463,5 +1463,15 @@
 		<choice>FH,Rapi</choice>
 		<choice>Rapi_Endu,Agi</choice>
 		<choice>Force,Couteau</choice>
+		<choice>Endu,Glaive</choice>
+		<choice>Os,Rapi</choice>
+		<choice>Force,Baton</choice>
+	</brute>
+
+	<brute>
+		<name>MissFlyway</name>
+		<choice>Force,Glaive</choice>
+		<choice>Force,Glaive</choice>
+		<choice>Force,Glaive</choice>
 	</brute>
 </brutes>
