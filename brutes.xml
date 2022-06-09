@@ -1466,6 +1466,7 @@
 		<choice>Endu,Glaive</choice>
 		<choice>Os,Rapi</choice>
 		<choice>Force,Baton</choice>
+		<choice>Force,Couteau</choice>
 	</brute>
 
 	<brute>
@@ -1473,5 +1474,6 @@
 		<choice>Force,Glaive</choice>
 		<choice>Force,Glaive</choice>
 		<choice>Force,Glaive</choice>
+		<choice>PR,Endu</choice>
 	</brute>
 </brutes>
