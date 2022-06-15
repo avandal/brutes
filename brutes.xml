@@ -1451,10 +1451,14 @@
 
 	<brute>
 		<name>MisterScala</name>
-		<choice>Agi,Glaive</choice>
-		<choice>Agi,FE</choice>
-		<choice>Agi,Couteau</choice>
-		<choice>TdF,Agi</choice>
+		<choice>Endu,Glaive</choice>
+		<choice>Vanda,Rapi</choice>
+		<choice>Vita,Rapi</choice>
+		<choice>Rapi,Glaive</choice>
+		<choice>Force,Glaive</choice>
+		<choice>Trappeur,Rapi</choice>
+		<choice>Endu,Glaive</choice>
+		<choice>Bouclier,Endu</choice>
 	</brute>
 
 	<brute>
@@ -1467,6 +1471,11 @@
 		<choice>Os,Rapi</choice>
 		<choice>Force,Baton</choice>
 		<choice>Force,Couteau</choice>
+		<choice>MA,Force</choice>
+		<choice>Endu,Lance</choice>
+		<choice>Choc,Rapi</choice>
+		<choice>Force,Baton</choice>
+		<choice>BF,Rapi</choice>
 	</brute>
 
 	<brute>
@@ -1475,5 +1484,33 @@
 		<choice>Force,Glaive</choice>
 		<choice>Force,Glaive</choice>
 		<choice>PR,Endu</choice>
+		<choice>Agi,Glaive</choice>
+		<choice>TdC,Force</choice>
+		<choice>Noodle,Rapi</choice>
+		<choice>Shushu,Endu</choice>
+		<choice>AdF,Endu</choice>
+	</brute>
+
+	<brute>
+		<name>MissSpringBoot</name>
+		<choice>bF,Force</choice>
+		<choice>Rapi,Baton</choice>
+		<choice>Agi,Glaive</choice>
+		<choice>Endu,Glaive</choice>
+		<choice>6e.s,Rapi</choice>
+		<choice>AdF,Force</choice>
+		<choice>Os,Endu</choice>
+	</brute>
+
+	<brute>
+		<name>MissIntelliJ</name>
+		<choice>Force,Massue</choice>
+		<choice>MA,Rapi</choice>
+		<choice>Chien,Endu</choice>
+		<choice>PT,Force</choice>
+		<choice>Force,FR</choice>
+		<choice>Lance,Rapi</choice>
+		<choice>Rapi,Massue</choice>
+		<choice>AdF,Force</choice>
 	</brute>
 </brutes>
