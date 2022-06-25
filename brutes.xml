@@ -1451,14 +1451,13 @@
 
 	<brute>
 		<name>MisterScala</name>
-		<choice>Endu,Glaive</choice>
-		<choice>Vanda,Rapi</choice>
-		<choice>Vita,Rapi</choice>
-		<choice>Rapi,Glaive</choice>
+		<choice>Chien,Force</choice>
+		<choice>Force,Massue</choice>
+		<choice>Agi,Massue</choice>
+		<choice>Os,Agi</choice>
+		<choice>Force,PR</choice>
+		<choice>Vita,Force</choice>
 		<choice>Force,Glaive</choice>
-		<choice>Trappeur,Rapi</choice>
-		<choice>Endu,Glaive</choice>
-		<choice>Bouclier,Endu</choice>
 	</brute>
 
 	<brute>
@@ -1476,6 +1475,19 @@
 		<choice>Choc,Rapi</choice>
 		<choice>Force,Baton</choice>
 		<choice>BF,Rapi</choice>
+		<choice>Rapi,Baton</choice>
+		<choice>Force_Endu,Rapi</choice>
+	</brute>
+
+	<brute>
+		<name>MissPostgres</name>
+		<choice>Lance,Rapi</choice>
+		<choice>Rapi,Massue</choice>
+		<choice>Choc,Agi</choice>
+		<choice>SC,Agi</choice>
+		<choice>Endu,FE</choice>
+		<choice>Trident,Agi</choice>
+		<choice>Force,Baton</choice>
 	</brute>
 
 	<brute>
@@ -1489,6 +1501,11 @@
 		<choice>Noodle,Rapi</choice>
 		<choice>Shushu,Endu</choice>
 		<choice>AdF,Endu</choice>
+		<choice>Agi,Chien</choice>
+		<choice>Intouchable,Rapi</choice>
+		<choice>Agi,Hache</choice>
+		<choice>Force,Glaive</choice>
+		<choice>Poireau,Force</choice>
 	</brute>
 
 	<brute>
@@ -1512,5 +1529,8 @@
 		<choice>Lance,Rapi</choice>
 		<choice>Rapi,Massue</choice>
 		<choice>AdF,Force</choice>
+		<choice>Force,PR</choice>
+		<choice>Agi,Massue</choice>
+		<choice>AdF,Hache</choice>
 	</brute>
 </brutes>
