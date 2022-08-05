@@ -1346,15 +1346,22 @@
 				<picked>Rapi</picked>
 				<choice>SC,Rapi</choice>
 				<choice>Bouclier,Endu</choice>
-				<choice>PR,Rapi</choice>
-				<choice>Endu,Rapi_Force</choice>
-				<choice>Force_Agi,Endu</choice>
-				<choice>Endu,Hache</choice>
-				<choice>Force,Baton</choice>
-				<choice>Force,Couteau</choice>
-				<choice>Rapi,Filet</choice>
-				<choice>AdF,Agi</choice>
-				<next />
+				<bifurq current-tree="c2">
+					<c1>
+						<picked>PR</picked>
+						<choice>Endu,Rapi_Force</choice>
+						<choice>Force_Agi,Endu</choice>
+						<choice>Endu,Hache</choice>
+						<choice>Force,Baton</choice>
+						<choice>Force,Couteau</choice>
+						<choice>Rapi,Filet</choice>
+						<choice>AdF,Agi</choice>
+					</c1>
+					<c2>
+						<picked>Rapi</picked>
+						<next />
+					</c2>
+				</bifurq>
 			</c2>
 		</bifurq>
 	</brute>
