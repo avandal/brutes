@@ -1470,7 +1470,18 @@
 		<choice>Endu_Rapi,Rapi</choice>
 		<choice>Force_Endu,Rapi</choice>
 		<choice>Endu_Force,Agi</choice>
+		Endu,Rapi_Force
+		TdC,Endu
+		Endu,PR
+		Force,Rapi_Force
+		Rapi_Force,Agi
 	</brute>
+			
+	MissJOOQ
+	reset  AM,PR,Regen,Etoile,Trident,Chien x2
+	Choc,Endu
+	Endu,Baton
+	Vita,Agi
 
 	<brute>
 		<name>MisterJOOQ</name>
@@ -1499,6 +1510,19 @@
 				<choice>Force_Agi,Rapi</choice>
 				<choice>Bouclier,Endu</choice>
 				<choice>Rapi,Glaive</choice>
+				Sai,Force
+				Rapi,Couteau
+				Agi,Baton
+				Force,Lance
+				Agi,Couteau
+				Force,Glaive
+				Force_Endu,Agi
+				Fouet,Rapi
+				Agi,Espion
+				Contre,Rapi
+				Endu,Glaive
+				Agi,Baton
+				Chien,Agi
 				<next />
 			</c2>
 		</bifurq>
@@ -1521,6 +1545,15 @@
 		<choice>Agi,Couteau</choice>
 		<choice>Bouclier,Force</choice>
 		<choice>Force,Epee</choice>
+		Endu,Rapi_Endu
+		Agi_Force,Endu
+		Force,Couteau
+		Force,Baton
+		Force,Glaive
+		Pugnace,Endu
+		Agi,Os
+		Rapi,Glaive
+		BF,Endu
 	</brute>
 
 	<brute>
@@ -1543,22 +1576,34 @@
 		<choice>Agi,Baton</choice>
 		<choice>BF,Force</choice>
 		<choice>Agi,Chien</choice>
+		Force,Massue
+		Agi,MA
+		Vita,Endu
+		Endu,Hache
+		Rapi,Glaive
+		Rapi,Hache
+		Rapi,Baton
+		Rapi,Glaive
 	</brute>
 
 	<brute>
 		<name>MissSpringBoot</name>
-		<choice>bF,Force</choice>
-		<choice>Rapi,Baton</choice>
-		<choice>Agi,Glaive</choice>
-		<choice>Endu,Glaive</choice>
-		<choice>6e.s,Rapi</choice>
-		<choice>AdF,Force</choice>
-		<choice>Os,Endu</choice>
-		<choice>Epee,Rapi</choice>
-		<choice>Endu,PR</choice>
-		<choice>Force,Baton</choice>
-		<choice>Endu,Couteau</choice>
-		<choice>Force,Espion</choice>
+		Endu,FE
+		MA,Force
+		PR,Endu
+		Endu,Os
+		Bouclier,Agi
+		Couteau,Force
+		AM,Force
+		Rapi,FE
+		Vita,Agi
+		Force,Agi_Rapi
+		Rapi,Baton
+		Force,Massue
+		Rapi,Massue
+		Agi,Baton
+		Force,Shushu
+		Endu,Lance
 	</brute>
 
 	<brute>
@@ -1578,5 +1623,33 @@
 		<choice>Force,Rapi_Force</choice>
 		<choice>Endu,Glaive</choice>
 		<choice>Force,Glaive</choice>
+		6e.s,Force
+		Filet,Endu
+		Etoile,Force
+		Choc,Endu
+		Agi,Hache
+		Rapi,Glaive
 	</brute>
+	
+	MissGitlab
+	Marteau,Endu
+	Endu,Hache
+	Bouclier,Endu
+	Agi,Glaive
+	Force,Lance
+	Agi,FE
+	AdF,Rapi
+	Rapi,Couteau
+	MA,Endu
+	Sai,Rapi
+	Cimeterre,Force
+
+	MissREST
+	SC,Force
+	FH,Force
+	Rapi,Massue
+	Force,Glaive
+	Agi,Baton
+	Force,Endu_Rapi
+	Rapi,Couteau
 </brutes>
