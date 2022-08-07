@@ -1359,6 +1359,7 @@
                     </c1>
                     <c2>
                         <picked>Rapi</picked>
+                        <choice>Endu,Couteau</choice>
                         <next />
                     </c2>
                 </bifurq>
@@ -1482,6 +1483,8 @@
         <choice>Choc,Endu</choice>
         <choice>Endu,Baton</choice>
         <choice>Vita,Agi</choice>
+        <choice>Force,Glaive</choice>
+        <choice>Agi,Couteau</choice>
     </brute>
 
     <brute>
@@ -1524,6 +1527,7 @@
                 <choice>Endu,Glaive</choice>
                 <choice>Agi,Baton</choice>
                 <choice>Chien,Agi</choice>
+                <choice>Endu,Lance</choice>
                 <next />
             </c2>
         </bifurq>
@@ -1585,6 +1589,7 @@
         <choice>Rapi,Hache</choice>
         <choice>Rapi,Baton</choice>
         <choice>Rapi,Glaive</choice>
+        <choice>Agi,Couteau</choice>
     </brute>
 
     <brute>
