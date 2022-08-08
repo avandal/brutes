@@ -1360,6 +1360,7 @@
                     <c2>
                         <picked>Rapi</picked>
                         <choice>Endu,Couteau</choice>
+                        <choice>Agi,Glaive</choice>
                         <next />
                     </c2>
                 </bifurq>
@@ -1485,6 +1486,7 @@
         <choice>Vita,Agi</choice>
         <choice>Force,Glaive</choice>
         <choice>Agi,Couteau</choice>
+        <choice>Agi,Glaive</choice>
     </brute>
 
     <brute>
@@ -1650,6 +1652,7 @@
         <choice>MA,Endu</choice>
         <choice>Sai,Rapi</choice>
         <choice>Cimeterre,Force</choice>
+        <choice>Force_Endu,Rapi</choice>
     </brute>
 
     <brute>
@@ -1661,5 +1664,6 @@
         <choice>Agi,Baton</choice>
         <choice>Force,Endu_Rapi</choice>
         <choice>Rapi,Couteau</choice>
+        <choice>Force,Couteau</choice>
     </brute>
 </brutes>
