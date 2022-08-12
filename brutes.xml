@@ -1618,6 +1618,7 @@
         <choice>Force,Shushu</choice>
         <choice>Endu,Lance</choice>
         <choice>SC,Rapi</choice>
+        <choice>Endu,Rapi_Agi</choice>
     </brute>
 
     <brute>
@@ -1661,6 +1662,7 @@
         <choice>Cimeterre,Force</choice>
         <choice>Force_Endu,Rapi</choice>
         <choice>Agi,Hache</choice>
+        <choice>SC,Rapi</choice>
     </brute>
 
     <brute>
