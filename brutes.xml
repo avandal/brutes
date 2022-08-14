@@ -1565,6 +1565,7 @@
         <choice>Agi,Os</choice>
         <choice>Rapi,Glaive</choice>
         <choice>BF,Endu</choice>
+        <choice>Endu,Filet</choice>
     </brute>
 
     <brute>
@@ -1597,6 +1598,7 @@
         <choice>Rapi,Glaive</choice>
         <choice>Agi,Couteau</choice>
         <choice>Force,Glaive</choice>
+        <choice>Agi,Couteau</choice>
     </brute>
 
     <brute>
@@ -1619,6 +1621,7 @@
         <choice>Endu,Lance</choice>
         <choice>SC,Rapi</choice>
         <choice>Endu,Rapi_Agi</choice>
+        <choice>Glaive,Endu</choice>
     </brute>
 
     <brute>
@@ -1663,6 +1666,7 @@
         <choice>Force_Endu,Rapi</choice>
         <choice>Agi,Hache</choice>
         <choice>SC,Rapi</choice>
+        <choice>Force,CqP</choice>
     </brute>
 
     <brute>
@@ -1678,5 +1682,6 @@
         <choice>AM,Force</choice>
         <choice>TdF,Endu</choice>
         <choice>Endu,Hache</choice>
+        <choice>Force,Bombe</choice>
     </brute>
 </brutes>
