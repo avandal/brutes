@@ -1493,6 +1493,7 @@
         <choice>Endu,Couteau</choice>
         <choice>Regen,Unknown</choice>
         <choice>Force,Baton</choice>
+        <choice>AM,Rapi</choice>
     </brute>
 
     <brute>
@@ -1696,5 +1697,6 @@
         <choice>Endu,Hache</choice>
         <choice>Force,Bombe</choice>
         <choice>Endu,PR</choice>
+        <choice>Endu,Couteau</choice>
     </brute>
 </brutes>
