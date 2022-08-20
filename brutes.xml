@@ -1363,6 +1363,7 @@
                         <choice>Agi,Glaive</choice>
                         <choice>Rapi,Shushu</choice>
                         <choice>Force,Os</choice>
+                        <choice>Contre,Rapi</choice>
                         <next />
                     </c2>
                 </bifurq>
@@ -1494,6 +1495,7 @@
         <choice>Regen,Unknown</choice>
         <choice>Force,Baton</choice>
         <choice>AM,Rapi</choice>
+        <choice>Endu,PR</choice> <!-- Bifurq ? -->
     </brute>
 
     <brute>
@@ -1603,6 +1605,7 @@
         <choice>Agi,Couteau</choice>
         <choice>Force,Glaive</choice>
         <choice>Agi,Couteau</choice>
+        <choice>AM,Force</choice>
     </brute>
 
     <brute>
@@ -1677,6 +1680,7 @@
             </c1>
             <c2>
                 <picked>Endu</picked>
+                <next />
             </c2>
         </bifurq>
         
@@ -1698,5 +1702,6 @@
         <choice>Force,Bombe</choice>
         <choice>Endu,PR</choice>
         <choice>Endu,Couteau</choice>
+        <choice>Rapi,Glaive</choice>
     </brute>
 </brutes>
