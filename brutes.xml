@@ -515,7 +515,6 @@
         <choice>Sai,Agi</choice>
         <choice>Force,Chien</choice>
         <choice>Chien,Agi</choice>
-        <next />
         <choice>Force,Glaive</choice>
         <choice>Force,Glaive</choice>
         <choice>Force,CqP</choice>
@@ -526,6 +525,7 @@
         <choice>Agi,Os</choice>
         <choice>Force,Glaive</choice>
         <choice>Force,Glaive</choice>
+        <next />
         <choice>PR,Agi</choice>
         <choice>Contre,Force</choice>
         <choice>AM,Rapi</choice>
@@ -1496,6 +1496,7 @@
         <choice>Force,Baton</choice>
         <choice>AM,Rapi</choice>
         <choice>Endu,PR</choice> <!-- Bifurq ? -->
+        <choice>Agi,Glaive</choice>
     </brute>
 
     <brute>
@@ -1629,6 +1630,7 @@
         <choice>SC,Rapi</choice>
         <choice>Endu,Rapi_Agi</choice>
         <choice>Glaive,Endu</choice>
+        <choice>Endu,Agi</choice>
     </brute>
 
     <brute>
@@ -1680,6 +1682,7 @@
             </c1>
             <c2>
                 <picked>Endu</picked>
+                <choice>Force,Glaive</choice>
                 <next />
             </c2>
         </bifurq>
