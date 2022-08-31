@@ -1611,6 +1611,7 @@
         <choice>Force,Glaive</choice>
         <choice>Agi,Couteau</choice>
         <choice>AM,Force</choice>
+        <choice>Agi,Glaive</choice>
     </brute>
 
     <brute>
@@ -1689,6 +1690,7 @@
                 <picked>Endu</picked>
                 <choice>Force,Glaive</choice>
                 <choice>Agi,Glaive</choice>
+                <choice>Endu,Couteau</choice>
                 <next />
             </c2>
         </bifurq>
